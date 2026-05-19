@@ -1,6 +1,6 @@
 <h1 align="center"> 🎯 Jogo do Número Secreto </h1>
 <p align="center">
-<img width="800" height="600" alt="955BDAED-3ACD-48D9-86C0-5D0D686C697B" src="https://github.com/user-attachments/assets/a05bff99-b26d-4c52-8378-ca39c2698bac" />
+<img width="800" height="500" alt="955BDAED-3ACD-48D9-86C0-5D0D686C697B" src="https://github.com/user-attachments/assets/a05bff99-b26d-4c52-8378-ca39c2698bac" />
 </p>
 
 ## 💻 Linguagens usadas no projeto
